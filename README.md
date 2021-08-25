@@ -28,3 +28,5 @@
 
 
 > todoTeam,  reminderTeam 브랜치 생성  2021 / 08 / 23 (월)
+> 
+> todoTeam, reminderTeam 컴포넌트 1차 개발 완료 2021 / 08 / 24 (화)
